@@ -8,7 +8,7 @@ public class AbstractClass {
  {
 	 System.out.println("m2");
  }
- public void m3(){
+ public void m4(){
 	 System.out.println("m3 called");
  }
 }
